@@ -1,5 +1,5 @@
 {
-	"name": "@example/revenge-plugins",
+	"name": "@purpleeyez/revenge-plugins",
 	"private": true,
 	"type": "module",
 	"scripts": {
@@ -19,9 +19,9 @@
 		"@revenge-mod/themes-api": "git+https://github.com/revenge-mod/revenge-themes-types.git"
 	},
 	"devDependencies": {
-		"@biomejs/biome": "^2.5.12",
-		"@types/node": "^26.4.1",
-		"@types/react": "^19.2.18",
+		"@biomejs/biome": "^2.6.3",
+		"@types/node": "^26.6.5",
+		"@types/react": "^19.3.0",
 		"react-native": "0.81.6",
 		"typescript": "^7.0.2"
 	},
