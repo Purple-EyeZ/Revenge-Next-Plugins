@@ -1,0 +1,31 @@
+{
+  "format": 1,
+  "name": "My Plugin Repository",
+  "description": "Example plugin repository from the Revenge plugin template.",
+  "plugins": {
+    "purpleeyez.gtavicountdown": {
+      "name": "🇺🇸 GTA VI Countdown",
+      "description": "Counting down until you reach heaven.",
+      "author": "Purple_Ξye™ <646535537334812682> (https://github.com/Purple-EyeZ \"GitHub\")",
+      "icon": "ClockIcon",
+      "channels": {
+        "latest": "1.0.0"
+      },
+      "versions": {
+        "1.0.0": {
+          "url": "https://purple-eyez.github.io/Revenge-Next-Plugins/pool/purpleeyez.gtavicountdown@1.0.0.zip",
+          "sha256": "3ecec7f429efe4e61437aa0e12fec976f09fcdd15e1185480cd92a67b785926b",
+          "size": 3115,
+          "dependencies": {
+            "revenge.api": {
+              "version": ">=1 <2"
+            },
+            "discord": {
+              "version": ">=350.4"
+            }
+          }
+        }
+      }
+    }
+  }
+}
