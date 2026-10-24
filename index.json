@@ -1,7 +1,7 @@
 {
   "format": 1,
-  "name": "My Plugin Repository",
-  "description": "Example plugin repository from the Revenge plugin template.",
+  "name": "Purple_Ξye™'s Plugins",
+  "description": "Plugins for Revenge Next.",
   "plugins": {
     "purpleeyez.gtavicountdown": {
       "name": "🇺🇸 GTA VI Countdown",
